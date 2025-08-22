@@ -9,7 +9,10 @@ AI suggestions for bug fixes, improvements, and optimization.
 Clean and responsive React interface.
 
 🛠️ Usage ....
+
 Paste or write code in the editor.
+
 Click Analyze or Review Code.
+
 View AI-generated feedback, suggestions, and improvements instantly.
 
