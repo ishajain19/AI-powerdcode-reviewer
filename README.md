@@ -1,3 +1,7 @@
+
+Tech Stack used in it is : React.js , Node.js , Express.js ,google Gemini API
+
+
 AI Code Reviewer is a React-based web application that allows developers to automatically review their code and get AI-powered suggestions using the Gemini API. It helps improve code quality, detect errors, and optimize workflow.
 
 Features ...
