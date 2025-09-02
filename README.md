@@ -21,14 +21,21 @@ View AI-generated feedback, suggestions, and improvements instantly.
 Quick Start
 
 Backend
+
 cd server
+
 cp .env.example .env
+
 npm install
+
 npm run dev
 
 
 Frontend
+
 cd client
+
 cp .env.example .env
+
 npm install
 npm run dev
