@@ -18,3 +18,17 @@ Paste or write code in the editor.
 Click Analyze or Review Code.
 View AI-generated feedback, suggestions, and improvements instantly.
 
+Quick Start
+
+Backend
+cd server
+cp .env.example .env
+npm install
+npm run dev
+
+
+Frontend
+cd client
+cp .env.example .env
+npm install
+npm run dev
